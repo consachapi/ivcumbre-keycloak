@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>pe.regioncusco</groupId>
 	<artifactId>ivcumbre</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>ivcumbre</name>
 	<description>Registro de Asistencia</description>
 	<properties>
